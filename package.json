@@ -24,8 +24,8 @@
         "eject": "react-scripts eject",
         "prettier:check": "npx prettier --check .",
         "prettier:fix": "npx prettier --write .",
-        "lint:check": "npx eslint . --ext .js,.jsx",
-        "lint:fix": "npx eslint . --ext .js,.jsx --fix"
+        "lint:check": "npx eslint . --ext .ts,.tsx",
+        "lint:fix": "npx eslint . --ext .ts,.tsx --fix"
     },
     "eslintConfig": {
         "extends": [

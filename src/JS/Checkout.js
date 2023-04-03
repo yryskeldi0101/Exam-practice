@@ -1,6 +1,5 @@
 import styles from './Checkout.module.css'
 import { LoadingIcon } from './Icons'
-import { getProducts } from './dataService'
 
 const Product = ({
     id,
